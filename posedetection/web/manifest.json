@@ -1,6 +1,6 @@
 {
-    "name": "posedetection",
-    "short_name": "posedetection",
+    "name": "mihir_suryanamskar_app",
+    "short_name": "mihir_suryanamskar_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

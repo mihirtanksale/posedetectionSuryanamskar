@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="posedetection"
+        android:label="mihir_suryanamskar_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

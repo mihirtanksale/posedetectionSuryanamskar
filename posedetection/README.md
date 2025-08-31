@@ -1,4 +1,4 @@
-# posedetection
+# mihir_suryanamskar_app
 
 A new Flutter project.
 
